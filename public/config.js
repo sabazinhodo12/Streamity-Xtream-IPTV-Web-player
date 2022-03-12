@@ -3,7 +3,7 @@ window.playername = "SabaWEBPLAYER";
 
 /*----- DNS -----*/
 //Iptv provider dns url (for example "http://domain.com:80")
-window.dns = "http://ccdn.pw:80";
+window.dns = "http://ccdn.ai:80";
 
 /*----- CORS -----*/
 /*/ Change on false if iptv provider has the Access-Control-Allow-Origin set on "*" or allows your player domain.
